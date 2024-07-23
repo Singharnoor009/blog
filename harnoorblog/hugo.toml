@@ -1,0 +1,4 @@
+baseURL = 'https://singharnoor009.github.io/'
+languageCode = 'en-us'
+title = 'Harnoor582 Blog'
+theme = "contrast-hugo"
